@@ -10,3 +10,5 @@ src-git oaf https://github.com/jjm2473/OpenAppFilter.git^ce2e9c9820d15d002224561
 src-git linkease_nas https://github.com/linkease/nas-packages.git^82958498ceb1f2f6331ce95b16092914e3826a3e
 src-git linkease_nas_luci https://github.com/linkease/nas-packages-luci.git^0a69cd9a981f88ecf061d1a4764d1cacb15f1d3c
 src-git jjm2473_apps https://github.com/jjm2473/openwrt-apps.git^4a07abda494116808153298abef3cc55d7dbbdda
+src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main
+src-git ddns-go https://github.com/sirpdboy/luci-app-ddns-go.git
