@@ -42,7 +42,7 @@ jobs:
       # 兼容两种触发方式：手动触发（workflow_dispatch）和自动触发（repository_dispatch）
       REPO_URL: "https://github.com/istoreos/istoreos.git"
       REPO_BRANCH: istoreos-24.10
-      FEEDS_CONF: feeds.conf.default
+      FEEDS_CONF: ‎feeds.buildinfo
       CONFIG_FILE: config.buildinfo
       DIY_P1_SH: diy-part1.sh
       DIY_P2_SH: diy-part2.sh
