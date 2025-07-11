@@ -985,3 +985,10 @@ CONFIG_MBEDTLS_THREADING_PTHREAD=y
 CONFIG_PACKAGE_libmbedtls=y
 # CONFIG_VERSION_CODE_FILENAMES is not set
 # CONFIG_VERSION_FILENAMES is not set
+CONFIG_FEED_nikki=y
+CONFIG_PACKAGE_luci-app-nikki=y
+CONFIG_PACKAGE_luci-i18n-nikki-zh-cn=y
+CONFIG_PACKAGE_nikki=y
+CONFIG_PACKAGE_luci-app-ddns-go=y
+CONFIG_PACKAGE_luci-i18n-ddns-go-zh-cn=y
+CONFIG_PACKAGE_ddns-go=y
