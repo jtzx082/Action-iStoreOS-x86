@@ -16,10 +16,10 @@ env:
   REPO_URL: https://github.com/istoreos/istoreos.git #检查源码地址
   REPO_BRANCH: istoreos-24.10
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 */06 * * *
+#on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: 0 */06 * * *
 
 jobs:
   check:
