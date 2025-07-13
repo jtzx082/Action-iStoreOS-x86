@@ -9,7 +9,7 @@ sudo bash -c 'bash <(curl -s https://build-scripts.immortalwrt.org/init_build_en
 
 # 以下操作在普通用户权限下执行
 echo "正在克隆代码仓库..."
-git clone -b openwrt-24.10 --single-branch --filter=blob:none https://github.com/immortalwrt/immortalwrt || {
+git clone -b istoreos-24.10 --single-branch --filter=blob:none https://github.com/istoreos/istoreos.git || {
     echo "克隆仓库失败！";
     exit 1;
 }
